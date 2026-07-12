@@ -1,3 +1,5 @@
+The Python source Code will be available soon, Once I have decoupled fully from private data sets.
+
 Frobozz Magic Operations Planner is a constraint-based engine that replaces guesswork with physics.
 
 Classic MRP explodes demand and assumes you can make it. Frobozz OP applies Liebig’s Law (limiting component of the BOM) and Kirchhoff conservation (assures component qty is conserved through all levels of production, nothing created or lost) to your actual inventory, open POs, and WOs to show what’s to produce over a 90 day range — plus the exact components that hold up production.
