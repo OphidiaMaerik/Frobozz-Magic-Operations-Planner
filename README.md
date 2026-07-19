@@ -1,6 +1,7 @@
 The Python source Code will be available soon, Once I have decoupled fully from private data sets.
 
 Frobozz OP-1 — What It Is
+
 Frobozz is a decision system that sits on top of JDE. It doesn't replace MRP, it fixes what MRP can't do.
 JDE tells you what you need to make everything. Frobozz tells you what you should make with what you actually have, to fill the most real customer demand.
 How It Works For A Planner
